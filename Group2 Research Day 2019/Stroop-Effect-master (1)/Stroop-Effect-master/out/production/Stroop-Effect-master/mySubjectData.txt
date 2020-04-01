@@ -1,0 +1,10 @@
+Wolf,Luka,1994-3-5,M,Liberal Arts,R,true,39,100,32,120
+Cho,Sara,2001-4-2,F,Engineering,L,false
+Taylor,Robert,1984-4-5,M,Math,R,true,37,112,34,140
+Smith,Sam,2002-2-9,M,Liberal Arts,R,true,39,90,39,100
+Green,Andy,2000-8-1,M,Science,L,true,37,100,39,113
+Williams,Bill,1998-11-11,M,Engineering,R,true,32,111,38,130
+Mullen,Mary,1989-6-5,F,Nursing,R,true,38,103,34,120
+Zed,Katy,2001-4-8,F,Education,R,true,35,102,32,121
+Yee,Jeanna,1996-3-9,F,Engineering,R,true,37,98,40,114
+Patterson,Cathy,1995-2-1,F,Liberal Arts,R,true,40,100,36,115
